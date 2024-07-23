@@ -13,3 +13,6 @@ Latent diffusion can reduce the memory and compute complexity by applying the di
 **Gradio -> Helps Build of AI Images**
 
 Gradio is an open-source Python framework that makes it easy to build quick interfaces like chatbots, voice-activated bots, and even full-fledged web applications to share your machine learning model, API or data science workflow with clients or collaborators. With Gradio, you can build quick demos and share them, all in Python with just a few lines of code. 
+
+**Using T4 Runtime Environment on Google Collab**
+Tesla T4 is a GPU card based on the Turing architecture and targeted at deep learning model inference acceleration.
